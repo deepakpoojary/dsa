@@ -1,6 +1,8 @@
 class Solution {
 public:
     vector<vector<int>> threeSum(vector<int>& nums) {
+        //basically let num be -1 0 1 1 , dont pick -1 0 1 , and -1 0 1(other 1)n then tell they're diff 
+        //basically dont pick dup in 3 places 
         sort(nums.begin(),nums.end());
         vector<vector<int>> res;
         for(int i =0;i<nums.size()-2;i++){
