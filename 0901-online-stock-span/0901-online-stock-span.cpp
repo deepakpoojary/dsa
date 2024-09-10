@@ -13,7 +13,7 @@ public:
             s.pop();
         }
         s.push({price, res});//store the cumilative ans 
-        return res;
+        return res;//some will have more cans as they have knocked out others 
     }
 };
 
