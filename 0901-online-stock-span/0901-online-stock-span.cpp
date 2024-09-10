@@ -1,22 +1,26 @@
 class StockSpanner {
 public:
-    stack<pair<int, int>> s;
-    StockSpanner() {//this will be called each time 
+   vector<int>v;
+    StockSpanner() {
         
-
     }
-        
-    int next(int price) {
-          int res = 1;
-        while (!s.empty() && s.top().first <= price) {
-            res += s.top().second;
-            s.pop();
+    int next(int price) {//each time it should input 
+        v.push_back(price);
+        int n=v.size();
+        int count=1;
+        if(n>1)
+        {
+            for(int i=n-2;i>=0;i--)
+            {
+                if(price>=v[i])
+                    count++;
+                else
+                    break;
+            }
         }
-        s.push({price, res});//store the cumilative ans 
-        return res;//some will have more cans as they have knocked out others 
+        return count;
     }
 };
-
 /**
  * Your StockSpanner object will be instantiated and called as such:
  * StockSpanner* obj = new StockSpanner();
