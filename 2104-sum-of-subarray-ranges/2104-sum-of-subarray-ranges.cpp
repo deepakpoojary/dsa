@@ -4,11 +4,11 @@ public:
         int n = int(nums.size());
         long long answer = 0;
 
-        for (int left = 0; left < n; ++left) {
-            int minVal = nums[left], maxVal = nums[left];
-            for (int right = left; right < n; ++right) {
-                maxVal = max(maxVal, nums[right]);
-                minVal = min(minVal, nums[right]);
+        for (int i = 0; i < n; ++i) {
+            int minVal = nums[i], maxVal = nums[i];
+            for (int j = i+1; j < n; ++j) {// j+1 cos same index result will be 0
+                maxVal = max(maxVal, nums[j]);
+                minVal = min(minVal, nums[j]);
                 answer += maxVal - minVal;
             }
         }
