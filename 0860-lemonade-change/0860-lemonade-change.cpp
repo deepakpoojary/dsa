@@ -15,8 +15,8 @@ public:
                 ten++;
                 
             }
-            else {
-                 if(five >0 && ten >0){
+            else { // the main crux is choosing 10 5 over three 5's  
+                 if(five >0 && ten >0){ // 5555 10 20 10 
                     five-=1;
                     ten-=1;
                 }
