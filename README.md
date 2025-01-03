@@ -21,4 +21,13 @@ trying to post atleast 1 permonth xd
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/deepakpoojary/dsa/tree/master/0066-plus-one) |
+| [0202-happy-number](https://github.com/deepakpoojary/dsa/tree/master/0202-happy-number) |
+## Hash Table
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/deepakpoojary/dsa/tree/master/0202-happy-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/deepakpoojary/dsa/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
