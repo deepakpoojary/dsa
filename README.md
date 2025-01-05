@@ -6,6 +6,7 @@ trying to post atleast 1 permonth xd
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/deepakpoojary/dsa/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/deepakpoojary/dsa/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/deepakpoojary/dsa/tree/master/0136-single-number) |
 ## Bit Manipulation
@@ -30,4 +31,12 @@ trying to post atleast 1 permonth xd
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/deepakpoojary/dsa/tree/master/0202-happy-number) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/deepakpoojary/dsa/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/deepakpoojary/dsa/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
