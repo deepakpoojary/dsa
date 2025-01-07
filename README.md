@@ -9,6 +9,7 @@ trying to post atleast 1 permonth xd
 | [0054-spiral-matrix](https://github.com/deepakpoojary/dsa/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/deepakpoojary/dsa/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/deepakpoojary/dsa/tree/master/0136-single-number) |
+| [1977-minimum-interval-to-include-each-query](https://github.com/deepakpoojary/dsa/tree/master/1977-minimum-interval-to-include-each-query) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -39,4 +40,20 @@ trying to post atleast 1 permonth xd
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/deepakpoojary/dsa/tree/master/0054-spiral-matrix) |
+## Binary Search
+|  |
+| ------- |
+| [1977-minimum-interval-to-include-each-query](https://github.com/deepakpoojary/dsa/tree/master/1977-minimum-interval-to-include-each-query) |
+## Line Sweep
+|  |
+| ------- |
+| [1977-minimum-interval-to-include-each-query](https://github.com/deepakpoojary/dsa/tree/master/1977-minimum-interval-to-include-each-query) |
+## Sorting
+|  |
+| ------- |
+| [1977-minimum-interval-to-include-each-query](https://github.com/deepakpoojary/dsa/tree/master/1977-minimum-interval-to-include-each-query) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1977-minimum-interval-to-include-each-query](https://github.com/deepakpoojary/dsa/tree/master/1977-minimum-interval-to-include-each-query) |
 <!---LeetCode Topics End-->
