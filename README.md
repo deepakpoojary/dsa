@@ -57,4 +57,20 @@ trying to post atleast 1 permonth xd
 |  |
 | ------- |
 | [1977-minimum-interval-to-include-each-query](https://github.com/deepakpoojary/dsa/tree/master/1977-minimum-interval-to-include-each-query) |
+## String
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/deepakpoojary/dsa/tree/master/0678-valid-parenthesis-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/deepakpoojary/dsa/tree/master/0678-valid-parenthesis-string) |
+## Stack
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/deepakpoojary/dsa/tree/master/0678-valid-parenthesis-string) |
+## Greedy
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/deepakpoojary/dsa/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
