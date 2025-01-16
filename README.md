@@ -9,6 +9,7 @@ trying to post atleast 1 permonth xd
 | [0054-spiral-matrix](https://github.com/deepakpoojary/dsa/tree/master/0054-spiral-matrix) |
 | [0057-insert-interval](https://github.com/deepakpoojary/dsa/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/deepakpoojary/dsa/tree/master/0066-plus-one) |
+| [0134-gas-station](https://github.com/deepakpoojary/dsa/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/deepakpoojary/dsa/tree/master/0136-single-number) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/deepakpoojary/dsa/tree/master/1977-minimum-interval-to-include-each-query) |
 ## Bit Manipulation
@@ -72,5 +73,6 @@ trying to post atleast 1 permonth xd
 ## Greedy
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/deepakpoojary/dsa/tree/master/0134-gas-station) |
 | [0678-valid-parenthesis-string](https://github.com/deepakpoojary/dsa/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
