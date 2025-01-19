@@ -6,6 +6,7 @@ trying to post atleast 1 permonth xd
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/deepakpoojary/dsa/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/deepakpoojary/dsa/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/deepakpoojary/dsa/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/deepakpoojary/dsa/tree/master/0057-insert-interval) |
@@ -21,6 +22,7 @@ trying to post atleast 1 permonth xd
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/deepakpoojary/dsa/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/deepakpoojary/dsa/tree/master/0191-number-of-1-bits) |
 ## Math
 |  |
@@ -66,6 +68,7 @@ trying to post atleast 1 permonth xd
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/deepakpoojary/dsa/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/deepakpoojary/dsa/tree/master/0055-jump-game) |
 | [0678-valid-parenthesis-string](https://github.com/deepakpoojary/dsa/tree/master/0678-valid-parenthesis-string) |
 ## Stack
