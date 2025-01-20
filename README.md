@@ -28,6 +28,7 @@ trying to post atleast 1 permonth xd
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/deepakpoojary/dsa/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/deepakpoojary/dsa/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/deepakpoojary/dsa/tree/master/0202-happy-number) |
 ## Hash Table
@@ -72,6 +73,7 @@ trying to post atleast 1 permonth xd
 | [0045-jump-game-ii](https://github.com/deepakpoojary/dsa/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/deepakpoojary/dsa/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/deepakpoojary/dsa/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/deepakpoojary/dsa/tree/master/0062-unique-paths) |
 | [0678-valid-parenthesis-string](https://github.com/deepakpoojary/dsa/tree/master/0678-valid-parenthesis-string) |
 ## Stack
 |  |
@@ -84,4 +86,8 @@ trying to post atleast 1 permonth xd
 | [0055-jump-game](https://github.com/deepakpoojary/dsa/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/deepakpoojary/dsa/tree/master/0134-gas-station) |
 | [0678-valid-parenthesis-string](https://github.com/deepakpoojary/dsa/tree/master/0678-valid-parenthesis-string) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/deepakpoojary/dsa/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
