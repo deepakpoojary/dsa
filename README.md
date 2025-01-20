@@ -30,6 +30,7 @@ trying to post atleast 1 permonth xd
 | ------- |
 | [0062-unique-paths](https://github.com/deepakpoojary/dsa/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/deepakpoojary/dsa/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/deepakpoojary/dsa/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/deepakpoojary/dsa/tree/master/0202-happy-number) |
 ## Hash Table
 |  |
@@ -74,6 +75,7 @@ trying to post atleast 1 permonth xd
 | [0053-maximum-subarray](https://github.com/deepakpoojary/dsa/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/deepakpoojary/dsa/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/deepakpoojary/dsa/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/deepakpoojary/dsa/tree/master/0070-climbing-stairs) |
 | [0678-valid-parenthesis-string](https://github.com/deepakpoojary/dsa/tree/master/0678-valid-parenthesis-string) |
 ## Stack
 |  |
@@ -90,4 +92,8 @@ trying to post atleast 1 permonth xd
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/deepakpoojary/dsa/tree/master/0062-unique-paths) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/deepakpoojary/dsa/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
