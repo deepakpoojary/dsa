@@ -14,6 +14,7 @@ trying to post atleast 1 permonth xd
 | [0066-plus-one](https://github.com/deepakpoojary/dsa/tree/master/0066-plus-one) |
 | [0134-gas-station](https://github.com/deepakpoojary/dsa/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/deepakpoojary/dsa/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/deepakpoojary/dsa/tree/master/0152-maximum-product-subarray) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/deepakpoojary/dsa/tree/master/1977-minimum-interval-to-include-each-query) |
 ## Bit Manipulation
 |  |
@@ -76,6 +77,7 @@ trying to post atleast 1 permonth xd
 | [0055-jump-game](https://github.com/deepakpoojary/dsa/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/deepakpoojary/dsa/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/deepakpoojary/dsa/tree/master/0070-climbing-stairs) |
+| [0152-maximum-product-subarray](https://github.com/deepakpoojary/dsa/tree/master/0152-maximum-product-subarray) |
 | [0678-valid-parenthesis-string](https://github.com/deepakpoojary/dsa/tree/master/0678-valid-parenthesis-string) |
 ## Stack
 |  |
