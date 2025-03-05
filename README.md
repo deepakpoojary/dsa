@@ -68,10 +68,12 @@ trying to post atleast 1 permonth xd
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/deepakpoojary/dsa/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/deepakpoojary/dsa/tree/master/0678-valid-parenthesis-string) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/deepakpoojary/dsa/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/deepakpoojary/dsa/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/deepakpoojary/dsa/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/deepakpoojary/dsa/tree/master/0055-jump-game) |
@@ -98,4 +100,8 @@ trying to post atleast 1 permonth xd
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/deepakpoojary/dsa/tree/master/0070-climbing-stairs) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/deepakpoojary/dsa/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
