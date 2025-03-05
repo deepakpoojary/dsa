@@ -1,22 +1,22 @@
 class Solution {
-    private: //when gen problem use recur tree, using open and close as variables at each step
-    void generate(int open,int close,int n,vector<string>&result,string str){
-        if(open==n&& close ==n){
-            result.push_back(str);
-            return;
-        }
-        if(open<n){
-            generate(open+1,close,n,result,str+'(');
-        }
-        if(open>close){
-            generate(open,close+1,n,result,str+')');
-        }
-                     
-    }
 public:
+void solve (vector<string>&ans,string tmp,int s,int e,int n){
+    if(s==n&e==n){
+        ans.push_back(tmp);
+        return;
+    }
+    if(s<n){
+        solve(ans,tmp+'(',s+1,e,n);
+    }
+    if(e<s){
+        solve(ans,tmp+')',s,e+1,n);
+    }
+}
     vector<string> generateParenthesis(int n) {
-        vector<string> result;
-        generate(0,0,n,result,"");
-        return result;
+        vector<string> ans;
+        solve(ans,"",0,0,n);
+        return ans;
     }
 };
+
+//u can only push ) when e<s
